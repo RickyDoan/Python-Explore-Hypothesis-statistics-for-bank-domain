@@ -17,15 +17,15 @@
   
 **Data Analysis & Key Insights**
 
-  ***Phase 1: Exploratory Analysis***
-    * Data Cleaning: Managed missing values, outliers, and duplicates.
-    * Segmentation: Analyzed income, spending behavior, and preferences by age group.
-    * Visualization: Used charts to represent income distribution, categories, and demographics.
+* Phase 1: Exploratory Analysis
+* Data Cleaning: Managed missing values, outliers, and duplicates.
+* Segmentation: Analyzed income, spending behavior, and preferences by age group.
+* Visualization: Used charts to represent income distribution, categories, and demographics.
   
-  ***Phase 2: Campaign & Hypothesis Testing***
-    * Focus group: Targeted age group.
-    * A/B Testing: Compared transaction amounts between test and control groups.
-    * Sample Size Optimization: Adjusted for budget constraints.
+* Phase 2: Campaign & Hypothesis Testing
+* Focus group: Targeted age group.
+* A/B Testing: Compared transaction amounts between test and control groups.
+* Sample Size Optimization: Adjusted for budget constraints.
   
 **Results and Findings**
 * Usage Instructions
