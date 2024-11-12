@@ -1,18 +1,20 @@
-Credit Card Customer Insights and Campaign Analysis
-This project analyzes customer and transaction data for a bank’s credit card division to uncover meaningful insights about customer segments and design targeted campaigns. The analysis covers data cleaning, customer segmentation, and statistical testing to create effective campaigns and optimize credit card offerings for specific age groups.
+## Credit Card Customer Insights and Campaign Analysis
+### This project analyzes customer and transaction data for a bank’s credit card division to uncover meaningful insights about customer segments and design targeted campaigns. The analysis covers data cleaning, customer segmentation, and statistical testing to create effective campaigns and optimize credit card offerings for specific age groups.
 
-Table of Contents
-Project Overview
-Data Analysis and Key Insights
-Campaign Design and Testing
-Results and Findings
-Usage Instructions
-License
+#### Table of Contents
+1.Project Overview
+2.Data Analysis and Key Insights
+3.Campaign Design and Testing
+4.Results and Findings
+5.Usage Instructions
+6.License
+------------------------
 Project Overview
 The project consists of two main phases:
 
-Phase 1: Data preparation and analysis, including segmentation of customers by age, income, and spending behavior.
-Phase 2: Campaign design, execution, and analysis for a targeted age group, including A/B testing to evaluate campaign success.
+#### *Phase 1: Data preparation and analysis, including segmentation of customers by age, income, and spending behavior.
+#### *Phase 2: Campaign design, execution, and analysis for a targeted age group, including A/B testing to evaluate campaign success.
+
 Data Analysis and Key Insights
 Phase 1: Data Preparation & Exploratory Analysis
 Data Cleaning: Addressed missing values, handled outliers, and removed duplicates in customer data (such as annual income and age).
