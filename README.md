@@ -3,15 +3,15 @@
 * This project analyzes customer and transaction data for a bank’s credit card division. It covers data cleaning, customer segmentation, and statistical testing to design and evaluate targeted marketing campaigns.
 
 * Table of Contents
-* 1.Project Overview
-* 2.Data Analysis & Key Insights
-* 3.Campaign Design & Testing
+1.**Project Overview
+1.**Data Analysis & Key Insights
+1.**Campaign Design & Testing
 * 4.Results and Findings
 * 5.Usage Instructions
 * 6.License
 ------------------------------------
 * Project Overview
-** The project includes two phases:
+* The project includes two phases:
 
 Phase 1: Data preparation and segmentation based on age, income, and spending behavior.
 Phase 2: Campaign design for a target age group (18-24), including A/B testing to measure campaign success.
