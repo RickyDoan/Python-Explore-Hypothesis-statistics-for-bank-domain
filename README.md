@@ -4,8 +4,9 @@
 
 * Table of Contents
 - **Project Overview1 **
-1.**Data Analysis & Key Insights1.**
-1.**Campaign Design & Testing1.**
+**Data Analysis & Key Insights1**
+**Campaign Design & Testing1**
+  
 * 4.Results and Findings
 * 5.Usage Instructions
 * 6.License
