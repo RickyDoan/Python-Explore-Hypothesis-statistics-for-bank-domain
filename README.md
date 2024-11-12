@@ -3,7 +3,7 @@
 * This project analyzes customer and transaction data for a bank’s credit card division. It covers data cleaning, customer segmentation, and statistical testing to design and evaluate targeted marketing campaigns.
 
 * Table of Contents
-- **Project Overview1 **
+**- Project Overview1 **
 **Data Analysis & Key Insights1**
 **Campaign Design & Testing1**
   
