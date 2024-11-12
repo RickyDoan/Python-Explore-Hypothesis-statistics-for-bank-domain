@@ -30,14 +30,14 @@ Phase 2: Campaign & Hypothesis Testing
 **Results and Findings**
 * Usage Instructions
 
-**Phase 1: Review customer segmentation and visualization for insights into customer demographics**
+  **Phase 1: Review customer segmentation and visualization for insights into customer demographics**
 
-**Phase 2: Explore campaign testing results to understand the A/B testing approach and insights gained.**
+  **Phase 2: Explore campaign testing results to understand the A/B testing approach and insights gained.**
 
 **License**
 
-This project is licensed under the MIT License.
+* This project is licensed under the MIT License.
 
 **Contact**
 
-For questions or feedback, feel free to reach out!
+* For questions or feedback, feel free to reach out!
